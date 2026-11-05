@@ -50,6 +50,15 @@ Armando mi camino hacia el **análisis de datos**: SQL avanzado (JOINs y funcion
 
 ---
 
+## ✍️ Dev Quote
+
+<p align="center">
+  <i>"Debugging is like being the detective in a crime movie where you are also the murderer."</i><br>
+  <sub>Filipe Fortes</sub>
+</p>
+
+---
+
 ## 📫 Contacto
 
 [LinkedIn](https://www.linkedin.com/in/gabriela-v-contreras/) · gvcontreras21@gmail.com
