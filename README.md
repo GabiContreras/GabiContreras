@@ -51,14 +51,11 @@ Armando mi camino hacia el **análisis de datos**: SQL avanzado (JOINs y funcion
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GabiContreras&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiContreras&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=GabiContreras&theme=tokyonight&hide_border=true&locale=es" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabiContreras&theme=tokyo-night&hide_border=true" />
-</p>
+---
+
+## 📫 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/gabriela-v-contreras/) · gvcontreras21@gmail.com
