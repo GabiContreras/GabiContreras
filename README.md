@@ -29,9 +29,15 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nestjs,nodejs,html,css&perline=8" /><br>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,cs,dotnet,java&perline=8" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,sqlite,powerbi&perline=8" /><br>
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,java,postgres,supabase,mongodb,sqlite&perline=8" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,notion,vscode&perline=8" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
