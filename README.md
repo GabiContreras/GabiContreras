@@ -50,7 +50,7 @@ Armando mi camino hacia el **análisis de datos**: SQL avanzado (JOINs y funcion
 
 ---
 
-## ✍️ Dev Quote
+## ✍️ Fav Quote
 
 <p align="center">
   <i>"Debugging is like being the detective in a crime movie where you are also the murderer."</i><br>
